@@ -1,3 +1,9 @@
 body {
     display: flex;
+    background: linear-gradient(to right, #75568f, #c08ac7);
+    
+}
+
+.prof-ft {
+    width: 500px;
 }
