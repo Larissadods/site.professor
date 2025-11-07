@@ -1,9 +1,18 @@
 body {
     display: flex;
-    background: linear-gradient(to right, #75568f, #c08ac7);
-    
+    background: url(fundo.jpg) no-repeat;
 }
 
 .prof-ft {
     width: 500px;
+    padding: 150px;
+    transform: rotate(-4deg);
+    position: absolute;
 }
+
+.simbolo2 {
+    position: relative;
+    bottom: 25%;
+    margin-left: 80px;
+}
+
