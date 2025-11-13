@@ -54,11 +54,24 @@ body {
 
 .info {
     position: absolute;
-    font-size: 20px;
+    font-size: 25px;
     top: 0;
     right: 0;
 }
 
+.info2 {
+    margin-top: -8%;
+    color: #8f2bbd;
+    font-size: 30px;
+    right: inherit;
+    margin-left: -70%;
+    margin-right: 50%;
+}
+
+.tesoura {
+    width: 40%;
+    
+}
 footer{
     position: absolute;
 }
